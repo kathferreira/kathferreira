@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kathferreira/kathferreira/master/banner_kat.png" width="1000">
+<img src="https://raw.githubusercontent.com/kathferreira/kathferreira/master/banner github.png" width="1000">
 <!---
 - 👋 Hi, I’m @kathferreira
 - 👀 I’m interested in ...
