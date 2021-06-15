@@ -5,12 +5,16 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
-Hi there🤸‍♂️ I'm Kathy (she/her), I was born 23 years ago in Caracas, Venezuela. I have more than 5 years of experience in technology🌈, where I have worked as a web🖥 and mobile📱 developer, I have been a pro-code and no-code, technical leader and I have trained teams from different organizations so they can build solutions using Power Platform💪🏼. I have always been interested in Artificial Intelligence and I am currently improving my skills as a data analyst. 
-
+Hi there🤸‍♂️ I'm Kathy (she/her), I was born 23 years ago in Caracas, Venezuela. I have more than 5 years of experience in technology🌈, where I have worked as a web🖥 and mobile📱 developer, I have been a pro-code and no-code, technical leader and I have trained teams from different organizations so they can build solutions using Power Platform💪🏼. I have always been interested in Artificial Intelligence and I am currently improving my skills as a data analyst.
 <br>
 <br>
 
-**My Microsoft Certifications**<br><br>
+**Community** 👩‍💻<br><br>
+- [Power Platform Chile](https://www.meetup.com/es/PowerPlatformChile/) 
+
+<br>
+
+**My Microsoft Certifications** 🏆<br><br>
 <img src="https://images.credly.com/size/340x340/images/c325c7c0-5fa6-4e59-be29-cd13c9417549/MCT-Microsoft_Certified_Trainer.png" width="200"> <img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" width="200"> <img src="https://images.credly.com/size/340x340/images/60030167-ab95-46aa-8391-c069102e5602/power-platform-app-maker-600x600.png" width="200"> 
 <br><br>
 **Reach me**✨
