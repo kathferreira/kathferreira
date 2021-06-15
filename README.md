@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
-Hi there🤸‍♂️ I'm Kathy (she/her), I was born 23 years ago in Caracas, Venezuela. I have more than 4 years of experience in technology🌈, where I have worked as a web🖥 and mobile📱 developer, I have been a pro-code and no-code, technical leader and I have trained teams from different organizations in the development of solutions with Power Platform💪🏼. I have always been interested in Artificial Intelligence and I am currently improving my skills as a data analyst. 
+Hi there🤸‍♂️ I'm Kathy (she/her), I was born 23 years ago in Caracas, Venezuela. I have more than 5 years of experience in technology🌈, where I have worked as a web🖥 and mobile📱 developer, I have been a pro-code and no-code, technical leader and I have trained teams from different organizations so they can build solutions using Power Platform💪🏼. I have always been interested in Artificial Intelligence and I am currently improving my skills as a data analyst. 
 
 <br>
 <br>
