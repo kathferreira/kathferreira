@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
-Hi there🤸‍♂️ I'm Kathy (she/her), I was born 24 years ago in Caracas, Venezuela. I studied Web Application Development and have more than 5 years of experience in software consulting for different industries and countries in Latam, my work experience includes different stages of software development: data modeling, multiplatform apps and data visualization.
+Hi there🧡 I'm Kat (she/her), I was born 24 years ago in Caracas, Venezuela. I studied Web Application Development and have more than 5 years of experience in software consulting for different industries and countries in Latam, my work experience includes different stages of software development: data modeling, multiplatform apps and data visualization.
 <br><br>
 Within my career I have provided training for people of different roles for their technical knowledge acquisition of the Cloud and I am an active member within the technology communities to invite more people in.
 <br>
