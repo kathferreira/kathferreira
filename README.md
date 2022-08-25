@@ -14,7 +14,7 @@ Within my career I have provided training for people of different roles for thei
 <br>
 
 **My Microsoft Certifications** 🏆<br><br>
-<img src="https://images.credly.com/size/340x340/images/c325c7c0-5fa6-4e59-be29-cd13c9417549/MCT-Microsoft_Certified_Trainer.png" width="125"> <img src="https://images.credly.com/size/340x340/images/60030167-ab95-46aa-8391-c069102e5602/power-platform-app-maker-600x600.png" width="125"> <img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" width="125"> <img src="https://raw.githubusercontent.com/kathferreira/kathferreira/master/az900badge.png" width="125"> <img src="https://raw.githubusercontent.com/kathferreira/kathferreira/master/azure-data-fundamentals-600x600.png" width="125">
+<img src="https://images.credly.com/size/340x340/images/c325c7c0-5fa6-4e59-be29-cd13c9417549/MCT-Microsoft_Certified_Trainer.png" width="125"> <img src="https://images.credly.com/size/340x340/images/1fab226c-0e60-4b45-9853-1905a4b6853a/azure-ai-engineer-600x600.png" width="125"> <img src="https://images.credly.com/size/340x340/images/60030167-ab95-46aa-8391-c069102e5602/power-platform-app-maker-600x600.png" width="125"> <img src="https://images.credly.com/size/340x340/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" width="125"> <img src="https://raw.githubusercontent.com/kathferreira/kathferreira/master/az900badge.png" width="125"> <img src="https://raw.githubusercontent.com/kathferreira/kathferreira/master/azure-data-fundamentals-600x600.png" width="125">
 <br><br>
 **Reach me**✨
 
